@@ -3,8 +3,8 @@
   "type": "package",
   "blockId": "lZ-smRCBt_eGhHPcQ3qHb",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/jky.git",
+    "ssh": "git@github.com:grgshiji/jky.git",
     "branch": "block_jky"
   },
   "parentBlockIDs": [],
