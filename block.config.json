@@ -1,0 +1,16 @@
+{
+  "name": "jky",
+  "type": "package",
+  "blockId": "lZ-smRCBt_eGhHPcQ3qHb",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_jky"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
